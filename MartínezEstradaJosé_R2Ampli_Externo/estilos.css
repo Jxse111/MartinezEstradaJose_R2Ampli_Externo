@@ -1,0 +1,21 @@
+body{
+    background-image:url("Imagenes/FondoWeb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a{
+    color: #a6a6a6;
+}
+h1{
+    color: #a6a6a6;
+}
+h2{
+    color: #a6a6a6;
+}
+h3{
+    color: #a6a6a6;
+}
+p{
+    color: #a6a6a6;
+}
